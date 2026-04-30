@@ -1,6 +1,6 @@
 deployment:
   replicas: "1"
-  changeCause: "Installing Latest Version"
-  imageVersion: "latest"
+  changeCause: "Installing 1.29.8 Version"
+  imageVersion: "1.29.8"
 service:
   type: LoadBalancer
